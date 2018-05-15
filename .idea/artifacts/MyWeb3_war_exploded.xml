@@ -1,0 +1,45 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="MyWeb3:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/MyWeb3_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="MyWeb3/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="MyWeb3" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/c3p0-0.9.2-pre5.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/commons-dbutils-1.4.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/mchange-commons-java-0.2.3.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/mysql-connector-java-5.1.39-bin.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/el-api.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/jasper.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/jsp-api.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/catalina.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/jasper-el.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/ecj-4.7.3a.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/jaspic-api.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/tomcat-api.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/tomcat-jni.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/catalina-ha.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/servlet-api.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/tomcat-dbcp.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/tomcat-jdbc.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/tomcat-util.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/catalina-ant.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/tomcat-coyote.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/websocket-api.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/tomcat-i18n-es.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/tomcat-i18n-fr.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/tomcat-i18n-ja.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/annotations-api.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/catalina-tribes.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/tomcat-util-scan.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/tomcat-websocket.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/catalina-storeconfig.jar" />
+          <element id="library" level="project" name="lib" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
